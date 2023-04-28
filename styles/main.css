@@ -17,3 +17,28 @@
   justify-content: space-between;
   padding: 10px 20px;
 }
+
+.offer {
+  background-color: #6e97e9;
+  color: white;
+  padding-top: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 40px;
+}
+
+.offer .title {
+  font-size: 32px;
+}
+
+.offer__link {
+  display: inline-block;
+  width: 100%;
+  background-color: #37cd3c;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  height: 32px;
+  border-radius: 16px;
+}
